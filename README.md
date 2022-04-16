@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **TCS as a Java Developer**
 
-- 🌱 I’m currently learning **Srpring Boot.**
+- 🌱 I’m currently learning **Spring Boot.**
 
 - 📫 How to reach me **princekumarsingh747@gmail.com**
 
